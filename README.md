@@ -22,7 +22,8 @@ A desktop application built using **Java Swing** for managing and maintaining te
 
 ## 📷 UI Preview
 
-![UI Screenshot](Screenshot%202025-07-13%20at%2012.34.04%E2%80%AFAM.png)
+![UI Screenshot](<img width="1620" height="1007" alt="Screenshot 2025-07-13 at 12 34 04 AM" src="https://github.com/user-attachments/assets/83d56242-b795-49e8-afe6-5fb0f37d7543" />
+)
 
 ## 🚀 How to Run
 
