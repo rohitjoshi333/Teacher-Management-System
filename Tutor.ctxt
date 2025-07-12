@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Tutor
+comment1.params=teacher_Id\ teacher_Name\ address\ working_Type\ employment_Status\ working_Hours\ salary\ specialization\ academic_Qualifications\ performance_Index
+comment1.target=Tutor(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=double\ getSalary()
+comment2.text=\ creating\ accessor\ method\r\nCreating\ a\ getter\ method\ that\ can\ take\ the\ value\ of\ instance\ variable\ whose\ access\ is\ prvate
+comment3.params=
+comment3.target=java.lang.String\ getSpecialization()
+comment4.params=
+comment4.target=java.lang.String\ getAcademic_Qualifications()
+comment5.params=
+comment5.target=int\ getPerformance_Index()
+comment6.params=
+comment6.target=boolean\ getIs_Certified()
+comment7.params=newsalary\ newperformance_Index
+comment7.target=void\ setSalary(double,\ int)
+comment8.params=
+comment8.target=void\ RemoveTutor()
+comment9.params=
+comment9.target=void\ Displayinformation()
+numComments=10
