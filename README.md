@@ -55,13 +55,4 @@ src/
 
 ## 🧑‍💻 Author
 
-* [Rohit Joshi](https://github.com/your-username)
-
----
-
-Feel free to fork, modify, and contribute!
-
-```
-
-Let me know if you'd like to include the actual Java files or break the README into sections for each module.
-```
+* [Rohit Joshi](https://github.com/rohitjoshi333)
